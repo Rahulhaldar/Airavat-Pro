@@ -94,15 +94,7 @@
        ```
  1. Now compile the code with appt2.
  1. Install the app in victim's device and give all the permissions after that the connection will show up in web panel.
-  ### Tutorial Videos
-  1. To be updated...
-
-### ❤️Supporters❤️
-[![Stargazers repo roster for @th30neand0nly/AIRAVAT](http://reporoster.com/stars/dark/Th30neAnd0nly/AIRAVAT)](https://github.com/Th30neAnd0nly/AIRAVAT/stargazers)
-
-[![Forkers repo roster for @th30neand0nly/AIRAVAT](http://reporoster.com/forks/dark/Th30neAnd0nly/AIRAVAT)](https://github.com/Th30neAnd0nly/AIRAVAT/network/members)
-
-
+  
 
 ## DISCLAIMER
 <p align="center">
